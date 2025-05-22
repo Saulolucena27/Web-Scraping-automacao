@@ -27,4 +27,4 @@ Pandas
 
 MySQL Connector
 
-TensorFlow Lite
+TensorFlow Lite 
